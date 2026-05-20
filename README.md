@@ -4,14 +4,15 @@
 ### *Artificial Intelligence & Machine Learning Engineer*
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nishchal-soni-b87270380"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/yuvi27_soni/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/nishchal-soni-b87270380" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/yuvi27_soni/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:yuvi27soni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 > ### *"Never hate your bugs. It affects your judgment."*
+> —— *Michael Corleone (adapted for compilation)*
 
 ---
 
@@ -46,27 +47,12 @@
 
 ---
 
-## 📊 Analytics & Performance
+## 📊 GitHub Activity Matrix
+
+Instead of broken external stats images, you can track my active development journey directly through my official GitHub contribution graph below!
 
 <div align="center">
-  <table border="0" cellpadding="10" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nishchalsoni27&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=7abc6d&text_color=a9b1d6&bg_color=1a1b26" alt="Nishchal's GitHub Stats" width="100%">
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchalsoni27&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages" width="100%">
-      </td>
-    </tr>
-  </table>
   
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishchalsoni27&theme=tokyonight&hide_border=true&background=1a1b26&sideNums=a9b1d6&sideLabels=a9b1d6&ring=7aa2f7&fire=e06c75&currStreakNum=7abc6d" alt="GitHub Streak" width="85%">
-</div>
+### 📈 [Click Here to View My Full Real-Time Contributions & Repositories](https://github.com/nishchalsoni27?tab=repositories)
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghvc/?username=nishchalsoni27&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
