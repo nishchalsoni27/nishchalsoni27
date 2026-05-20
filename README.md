@@ -12,7 +12,6 @@
 ---
 
 > ### *"Never hate your bugs. It affects your judgment."*
-> —— *Michael Corleone (adapted for compilation)*
 
 ---
 
