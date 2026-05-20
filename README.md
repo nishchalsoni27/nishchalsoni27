@@ -86,18 +86,13 @@ I am passionate about building intelligent systems that solve real-world problem
 
 <div align="center">
 
-<a href="https://github.com/nishchalsoni27">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nishchalsoni27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchalsoni27&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</a>
+![](https://img.shields.io/badge/Public%20Repos-dynamic-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/github/followers/nishchalsoni27?style=for-the-badge&label=Followers&color=58a6ff&logo=github&logoColor=white)
+![](https://img.shields.io/github/stars/nishchalsoni27?style=for-the-badge&label=Stars&color=f0c940&logo=github&logoColor=white)
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nishchalsoni27&theme=tokyonight&hide_border=true)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishchalsoni27&theme=tokyo-night&hide_border=true&area=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishchalsoni27&theme=tokyo-night&hide_border=true&area=true&custom_title=Nishchal%27s%20Contribution%20Graph)](https://github.com/nishchalsoni27)
 
 </div>
 
