@@ -86,13 +86,18 @@ I am passionate about building intelligent systems that solve real-world problem
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishchalsoni27&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true)
+<a href="https://github.com/nishchalsoni27">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nishchalsoni27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchalsoni27&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishchalsoni27&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nishchalsoni27&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakNum=58a6ff&sideNums=8b949e&sideLabels=8b949e&dates=8b949e)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nishchalsoni27&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishchalsoni27&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishchalsoni27&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
