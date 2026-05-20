@@ -39,8 +39,6 @@
 ---
 
 ## 🧬 About Me
-
-```python
 class NishchalSoni:
     def __init__(self):
         self.name       = "Nishchal Soni"
@@ -49,7 +47,7 @@ class NishchalSoni:
         self.location   = "India 🇮🇳"
         self.email      = "yuvi27soni@gmail.com"
 
-    def current_focus(self):
+  def current_focus(self):
         return [
             "🧠 C++ & Python system architecture",
             "📊 Data Structures & Algorithms (DSA)",
@@ -57,16 +55,15 @@ class NishchalSoni:
             "🔬 AI engine workflows & model optimization",
         ]
 
-    def aspirations(self):
+  def aspirations(self):
         return [
             "🚀 High-impact AI/ML research collaborations",
             "💼 AI/ML internships at top-tier companies",
             "🌐 Open-source contributions to AI ecosystem",
         ]
 
-    def quote(self):
+  def quote(self):
         return "Never hate your bugs — it affects your judgment."
-```
 
 <br/>
 
