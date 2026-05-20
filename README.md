@@ -50,25 +50,20 @@
 
 ### 📈 Activity & Metrics
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nishchalsoni27&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7abcff&text_color=a9b1d6&bg_color=1a1b26" alt="Nishchal's Metrics" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishchalsoni27&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=ff9e64&currStreakNum=7abcff&sideLabels=a9b1d6" alt="Nishchal's Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchalsoni27&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" alt="Language Analytics" width="70%" />
-    </td>
-  </tr>
-</table>
-
 ---
 
+### 📈 Metrics & Analytics
+
+🟢 **GitHub Overview**
+![Nishchal's Analytics](https://github-readme-stats.vercel.app/api?username=nishchalsoni27&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7abcff&text_color=a9b1d6&bg_color=1a1b26)
+
+🔥 **Commit Streak Tracker**
+![Nishchal's Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishchalsoni27&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=ff9e64&currStreakNum=7abcff&sideLabels=a9b1d6)
+
+📊 **Language Distribution**
+![Language Analytics](https://github-readme-stats.vercel.app/api/top-langs/?username=nishchalsoni27&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26)
+
+---
 <p align="center">
   <i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i>
 </p>
