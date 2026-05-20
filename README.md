@@ -12,6 +12,7 @@
 ---
 
 > ### *"Never hate your bugs. It affects your judgment."*
+>- *"NISHCHAL SONI"*
 
 ---
 
@@ -46,12 +47,21 @@
 
 ---
 
-## 📊 GitHub Activity Matrix
-
-Instead of broken external stats images, you can track my active development journey directly through my official GitHub contribution graph below!
+## 📊 GitHub Stats & Metrics
 
 <div align="center">
+  <table border="0" cellpadding="10" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.mirrors.smarterasp.net/api?username=nishchalsoni27&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=7abc6d&text_color=a9b1d6&bg_color=1a1b26" alt="GitHub Stats" width="100%">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.mirrors.smarterasp.net/api/top-langs/?username=nishchalsoni27&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages" width="100%">
+      </td>
+    </tr>
+  </table>
   
-### 📈 [Click Here to View My Full Real-Time Contributions & Repositories](https://github.com/nishchalsoni27?tab=repositories)
-
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishchalsoni27&theme=tokyonight&hide_border=true&background=1a1b26&sideNums=a9b1d6&sideLabels=a9b1d6&ring=7aa2f7&fire=e06c75&currStreakNum=7abc6d" alt="GitHub Streak" width="85%">
 </div>
