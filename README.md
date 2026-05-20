@@ -1,69 +1,72 @@
+<div align="center">
+
 # ⚡ Nishchal Soni
-### *Sensing Patterns, Engineering Solutions.*
+### *Artificial Intelligence & Machine Learning Engineer*
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nishchal-soni-b87270380"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
-  <a href="https://www.instagram.com/yuvi27_soni/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/></a>
-  <a href="mailto:yuvi27soni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
-</p>
-
----
-
-### 🧬 About Me
-> I am an **Integrated M.Tech Student in Artificial Intelligence** at **VIT Bhopal**. Driven by logic and structural design, I focus on constructing optimized software systems and exploring machine learning pipelines. My objective is to build elegant backend codebases and intelligent systems that solve real-world problems with high efficiency.
-
-* 🎯 **Current Focus:** Deepening advanced Data Structures & Algorithms (DSA), practicing Object-Oriented Design (OOD), and researching scalable HealthTech AI solutions.
-* 🛠️ **Approach:** Prioritizing computational performance, minimal design patterns, and writing clean, readable documentation.
-* 💼 **Open To:** Collaborative open-source software initiatives and industry-aligned AI/ML internship opportunities.
-
----
-
-### 💻 Core Ecosystem
-
-#### 💡 Languages & Architectures
-`C++ (OOPs)` &nbsp;•&nbsp; `Python (Data Ecosystem)` &nbsp;•&nbsp; `HTML5 / Semantic Web`
-
-#### ⚙️ Engineering Tools
-`Git Version Control` &nbsp;•&nbsp; `GitHub Actions` &nbsp;•&nbsp; `Linux Environment Architecture`
-
----
-
-### 📂 Selected Implementations
-
-#### 📊 [Study Schedule Planner](https://github.com/nishchalsoni27/study-schedule-planner)
-> **Core Focus: Automation & Systems Optimization**
-> An architectural productivity layer engineered in Python to optimize complex learning timetables, evaluate milestone tracking variables, and streamline dense academic schedules dynamically.
-
-#### 🪙 [Bitcoin Profit Calculator](https://github.com/nishchalsoni27/Bitcoin-calculator-)
-> **Core Focus: Localization & Financial Utility**
-> A native Python runtime tool designed specifically around the Indian crypto market framework. Instantly calculates net yields and regional margins with a fast, zero-dependency terminal interface utilizing native Indian Rupees currency logic ($₹$).
-
-#### 🔐 [Random Password Generator](https://github.com/nishchalsoni27/Random_Password_Gererator-)
-> **Core Focus: Practical Information Security**
-> A lightweight, security-first computational utility designed to mitigate password vulnerability. Generates strict, cryptographically diverse character strings adhering to custom, user-defined policy weights.
-
-#### 🌐 [Digital Literacy Project](https://github.com/nishchalsoni27/Digital-Literacy-Project)
-> **Core Focus: Public Sector Technology Dissemination**
-> Serving as a Student Digital Ambassador, built a clean web framework highlighting baseline technological literacy metrics and responsive UI resources.
-
----
-
-### 📈 Activity & Metrics
-
----
-
-### 📈 Metrics & Analytics
-
-🟢 **GitHub Overview**
-![Nishchal's Analytics](https://github-readme-stats.vercel.app/api?username=nishchalsoni27&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7abcff&text_color=a9b1d6&bg_color=1a1b26)
-
-🔥 **Commit Streak Tracker**
-![Nishchal's Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishchalsoni27&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=ff9e64&currStreakNum=7abcff&sideLabels=a9b1d6)
-
-📊 **Language Distribution**
-![Language Analytics](https://github-readme-stats.vercel.app/api/top-langs/?username=nishchalsoni27&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26)
-
----
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i>
+  <a href="https://www.linkedin.com/in/nishchal-soni-b87270380"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/yuvi27_soni/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:yuvi27soni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+---
+
+> ### *"Never hate your bugs. It affects your judgment."*
+
+---
+
+"Building intelligent systems at the intersection of robust software architecture and cutting-edge AI."
+
+</div>
+
+## 🪐 About Me
+
+- 🎓 **Education:** Integrated M.Tech student specializing in **Artificial Intelligence & Machine Learning**
+- 🛠️ **Current Focus:** Sharpening intermediate **C++ and Python** architecture, Data Structures & Algorithms (DSA), and AI engine workflows.
+- 🚀 **Projects:** Currently engineering a specialized **HealthTech AI system** tailored for processing, parsing, and summarizing complex medical diagnostics into clean, actionable data.
+- 🎯 **Aspirations:** Seeking high-impact research collaborations, AI/ML internships, and open-source contributions.
+
+---
+
+## 🛠️ Technical Ecosystem
+
+### 🧠 Core Intelligence & Analytics
+🏁 `Languages` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+
+📉 `Data & Learning` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" alt="Matplotlib"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="SciKit-Learn">
+
+### ⚙️ Developer Tools & Environments
+🛠️ `DevOps & Version` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
+
+🎨 `Design & Media` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva">
+
+---
+
+## 📊 Analytics & Performance
+
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=nishchalsoni27&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=7abc6d&text_color=a9b1d6&bg_color=1a1b26" alt="Nishchal's GitHub Stats" width="100%">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchalsoni27&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages" width="100%">
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishchalsoni27&theme=tokyonight&hide_border=true&background=1a1b26&sideNums=a9b1d6&sideLabels=a9b1d6&ring=7aa2f7&fire=e06c75&currStreakNum=7abc6d" alt="GitHub Streak" width="85%">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghvc/?username=nishchalsoni27&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+</div>
